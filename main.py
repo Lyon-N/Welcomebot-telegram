@@ -1,0 +1,1 @@
+python3 -c "import telegram; print(telegram.__version__)"
